@@ -49,8 +49,8 @@ Website: https://reminderxx.web.app/
 Install react-native-reminderx with npm
 
 ```bash
-  git clone 'https://github.com/sIUzyy/react-native-reminderx.git'
-  cd react-native-reminderx
+  git clone 'https://github.com/sIUzyy/reminderx-react-native.git'
+  cd reminderx-react-native
   npm install 
   npx expo start
 ```
