@@ -1,5 +1,6 @@
-![Untitled design](https://github.com/user-attachments/assets/501b3ed0-acc6-4797-99c4-b12632d4d570)
-![reminderx](https://github.com/user-attachments/assets/63740dcf-7783-4688-9fbb-a1fbdefbc49d)
+![reminderx](https://github.com/user-attachments/assets/cb388903-1a12-455e-9841-fe14cc593eb1)
+![reminderx-software-hardware-integration](https://github.com/user-attachments/assets/01216e91-8650-4453-8bca-0b33a123a79a)
+
 
 # RemindeRx
 
